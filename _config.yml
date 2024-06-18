@@ -25,8 +25,7 @@ domain: privacy.chazzy.dev
 url: https://privacy.chazzy.dev # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: jekyll-theme-persephone
-# theme: jekyll-theme-persephone
+remote_theme: erlzhang/jekyll-theme-persephone
 plugins:
   - jekyll-feed
 

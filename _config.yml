@@ -21,8 +21,8 @@
 title: chazzy.dev
 email: support@chazzy.dev
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: chazzy-privacy.github.io
-url: https://chazzy-privacy.github.io # the base hostname & protocol for your site, e.g. http://example.com
+domain: privacy.chazzy.dev
+url: https://privacy.chazzy.dev # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: jekyll-theme-persephone
